@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "出售订单",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-loadmore": "../../uni_modules/vk-uview-ui/components/u-loadmore/u-loadmore"
+  }
+}

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e70ac019-a003-4a3c-9277-112ec1c6fa1a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\javaDe\apache-maven-3.5.4\repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../../javaDe/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\javaDe\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2dzRBMhfZxM2U1UyfvbsEuMiOPI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ShopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="itmk-base-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itmk.ShopApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e70ac019-a003-4a3c-9277-112ec1c6fa1a" name="Changes" comment="" />
+      <created>1711008785191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711008785191</updated>
+      <workItem from="1711008786557" duration="328000" />
+      <workItem from="1711009121558" duration="1576000" />
+      <workItem from="1712727243003" duration="632000" />
+      <workItem from="1712728672029" duration="55000" />
+      <workItem from="1712728858792" duration="96000" />
+      <workItem from="1712728998158" duration="7776000" />
+      <workItem from="1712751485596" duration="2853000" />
+      <workItem from="1712799945896" duration="754000" />
+      <workItem from="1712837562221" duration="107000" />
+      <workItem from="1712840968322" duration="601000" />
+      <workItem from="1712847596054" duration="46000" />
+      <workItem from="1712887299349" duration="2237000" />
+      <workItem from="1712896785956" duration="304000" />
+      <workItem from="1712905025410" duration="642000" />
+      <workItem from="1712919493650" duration="991000" />
+      <workItem from="1712924692226" duration="288000" />
+      <workItem from="1712925768437" duration="579000" />
+      <workItem from="1713677702313" duration="607000" />
+      <workItem from="1713679428837" duration="4599000" />
+      <workItem from="1728631089952" duration="230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="250" key="FileChooserDialogImpl" timestamp="1728631266224">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="634" y="250" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1728631266224" />
+    <state x="241" y="170" key="new project wizard" timestamp="1728631318916">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="241" y="170" key="new project wizard/0.0.1707.1019@0.0.1707.1019" timestamp="1728631318916" />
+  </component>
+</project>

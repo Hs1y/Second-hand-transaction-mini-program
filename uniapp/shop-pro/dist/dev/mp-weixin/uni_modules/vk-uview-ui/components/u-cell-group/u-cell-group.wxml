@@ -1,0 +1,1 @@
+<view class="u-cell-box data-v-3201e14b"><view wx:if="{{a}}" class="u-cell-title data-v-3201e14b" style="{{c}}">{{b}}</view><view class="{{['u-cell-item-box', 'data-v-3201e14b', d && 'u-border-bottom u-border-top']}}"><slot/></view></view>
